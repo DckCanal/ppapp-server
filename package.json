@@ -4,7 +4,7 @@
   "description": "ppapp server for managing API requests and DB communication",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
